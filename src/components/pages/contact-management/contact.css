@@ -1,0 +1,15 @@
+.btn {
+    font-size: .725rem;
+    margin-bottom: 0rem;
+    border:1px solid #ccc;
+    line-height: 1;
+    padding: 0.25rem 0.5rem;
+    margin-right: .2rem;
+}
+.table, .table thead th {
+    font-size: .75rem;
+}
+.table td, .table th {
+    padding: 0.35rem;
+    vertical-align: middle;
+}

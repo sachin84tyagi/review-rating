@@ -1,0 +1,16 @@
+/**************************SHOPS***************************/
+export const REQUEST_FETCH_SHOPS = "REQUEST_FETCH_SHOPS";
+export const SUCCESS_FETCH_SHOPS = "SUCCESS_FETCH_SHOPS";
+export const FAIL_FETCH_SHOPS = "FAIL_FETCH_SHOPS";
+
+export const REQUEST_DELETE_SHOP = "REQUEST_DELETE_SHOP";
+export const SUCCESS_DELETE_SHOP = "SUCCESS_DELETE_SHOP";
+export const FAIL_DELETE_SHOP = "FAIL_DELETE_SHOP";
+
+export const REQUEST_ADD_SHOP = "REQUEST_ADD_SHOP";
+export const SUCCESS_ADD_SHOP = "SUCCESS_ADD_SHOP";
+export const FAIL_ADD_SHOP = "FAIL_ADD_SHOP";
+
+export const REQUEST_EDIT_SHOP = "REQUEST_EDIT_SHOP";
+export const SUCCESS_EDIT_SHOP = "SUCCESS_EDIT_SHOP";
+export const FAIL_EDIT_SHOP    = "FAIL_EDIT_SHOP";
